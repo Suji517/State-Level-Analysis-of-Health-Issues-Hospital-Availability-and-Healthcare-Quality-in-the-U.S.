@@ -19,7 +19,7 @@ Overall, this study visualized key health indicators through diverse charts and 
 
 ## 📈 Key Visualizations
 
-### 1️⃣ <QM vs. Overall> vs. <Staffing vs. Overall>
+### 1️⃣ QM vs. Staffing vs. Overall
 ![Overall_QM_Staffing](Overall_QM_Staffing.png)
 
 ### 2️⃣ Yearly Frequency of Health Categories Across US
